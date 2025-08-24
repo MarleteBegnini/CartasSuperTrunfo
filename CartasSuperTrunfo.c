@@ -20,13 +20,13 @@ int main() {
     scanf("%s",  &Estado);
 
     printf("Digite o código da Carta: \n");
-    scanf("%s", &Codigo);
+    scanf("%s", Codigo);
 
     printf("Digite o nome da Cidade: \n");
-    scanf("%s", &Cidade);
+    scanf("%s", Cidade);
 
     printf("Digite o número de habitantes: \n");
-    scanf("%d", &Populacao);
+    scanf("%d",  Populacao);
     
     print("Digite a Área em km² da Cidade: \n");
     scanf("%f", Area);
@@ -37,10 +37,6 @@ int main() {
     printf("Digite o número de pontos turisticos: \n");
     scanf("%d",  Numero_pontos_turisticos);
 
-
-
-
-  
 
   // Área para entrada de dados
 
