@@ -28,6 +28,18 @@ int main() {
     printf("Digite o número de habitantes: \n");
     scanf("%d", &Populacao);
     
+    print("Digite a Área em km² da Cidade: \n");
+    scanf("%f", Area);
+
+    print ("Digite o PIB da Cidade: \n");
+    scanf("%f", PIB);
+    
+    printf("Digite o número de pontos turisticos: \n");
+    scanf("%d",  Numero_pontos_turisticos);
+
+
+
+
   
 
   // Área para entrada de dados
